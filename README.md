@@ -40,7 +40,7 @@ The user enters the image URL or selects the file from the system.
 The output is shown in the next screen with the original and translated texts.
 
 ### Input Image
-![INPUT](images/ch1.PNG)
+![INPUT](images/ch1.png)
 
 ### Output
 ![OUTPUT](images/output.PNG)
