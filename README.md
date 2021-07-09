@@ -21,6 +21,8 @@ We see images with text in languages we do not know all over the internet. If it
 
 This application reads text from an image the user provides and gives an output of the text translated to a language of the user's choosing.
 
+This project uses pytesseract for reading text from image and googletrans library to translate the text. The GUI is made by using PySimpleGUI.
+
 The image can be given as a URL or from the user's system.
 
 ![](images/input_choice.PNG)
